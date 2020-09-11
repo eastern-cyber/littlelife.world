@@ -9,7 +9,7 @@ function config($key = '')
 {
     $config = array(
         'name' => 'Simple PHP Website',
-        'site_url' => 'https://easterncyber.com/',
+        'site_url' => 'https://littlelife.world',
         'pretty_uri' => true,
         'nav_menu' => array(
             '' => 'Home',
