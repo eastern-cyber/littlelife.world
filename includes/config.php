@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = array(
-        'name' => 'Simple PHP Website',
+        'name' => 'Fantasy World of Little Life - โลกแห่งจินตนาการของชีวิตน้อย ๆ',
         'site_url' => 'https://littlelife.world',
         'pretty_uri' => true,
         'nav_menu' => array(
